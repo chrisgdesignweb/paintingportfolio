@@ -123,8 +123,8 @@ html {
 color: #36454F;
 font-family: 'Arimo', sans-serif;}
 body {
-  font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
-  line-height: 1.6;
+  font-size: 1.75em; /* currently ems cause chrome bug misinterpreting rems on body element */
+  line-height: 1.7;
 font-family: 'Arimo', sans-serif;
 background-color: #f6f6f6;}
 
